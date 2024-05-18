@@ -1,0 +1,15 @@
+{
+    "name": "Resurrected Edition",
+    "short": "GROS: Resurrected Edition",
+    "year": "2015",
+    "sigil": "gros-re",
+    "type": "unreleased",
+    "description" : "The Resurrected Edition from the old Kickstarter campaign.",
+    
+    "list": "list.json",
+    "cover": "cover.jpeg",
+    "art": "/art/",
+    "thumb": "/thumb/",
+    "link" : "https://boardgamegeek.com/boardgame/178826/grave-robbers-from-outer-space-resurrected-edition",
+    "link_text": "Board Game Geek"
+}
